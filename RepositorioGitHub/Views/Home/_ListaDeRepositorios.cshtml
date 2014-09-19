@@ -1,0 +1,25 @@
+﻿@model IEnumerable<RepositorioGitHub.Models.DadosDoRepositorio>
+@if ((Model != null) && (Model.Any()))
+{
+    <section class="">
+        <ul>
+            @foreach (var itemAtual in Model)
+            {
+                <li>
+                    @Ajax.ActionLink(itemAtual.name, 
+                                     "DetalhesDoRepositorio", 
+                                     "Home",
+                                     new { nomeDoDonoDoRepositorio = itemAtual.owner.login, 
+                                           nomeDoItemDoRepositorio = itemAtual.name },
+                                     new AjaxOptions { UpdateTargetId = "divBodyRegion" },
+                                     new {})
+                </li>
+            }
+        </ul>
+    </section>
+}
+else
+{
+    <div class="semResultado">Nenhum item encontrado</div>
+}
+

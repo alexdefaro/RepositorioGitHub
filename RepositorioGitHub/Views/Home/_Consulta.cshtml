@@ -1,0 +1,24 @@
+﻿<h2>Consulta</h2>
+
+<div id="divConsulta"> 
+ 
+    @using ( Ajax.BeginForm( "PesquisarRepositorios", "Home", 
+                             new {}, 
+                             new AjaxOptions() { UpdateTargetId = "divListagem", HttpMethod = "Get" }, 
+                             new {} ) )
+    {
+        <div runat="server" id="divInformacao"> 
+            @Html.TextBox( "nomeDoItemDoRepositorio", "", new { id = "nomeDoItemDoRepositorio", 
+                                                                  placeholder = "Entre o nome do repositório" } )  
+        </div>
+                    
+        <div>
+            <input type="submit" name="btnPesquisar" value="Enviar" title="Clique aqui para pesquisar" alt="Executar pesquisa"/>
+        </div>                    
+    }
+
+    <div id="divListagem">
+    </div>                    
+
+</div>
+

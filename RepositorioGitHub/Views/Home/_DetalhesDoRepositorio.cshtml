@@ -1,0 +1,58 @@
+﻿@using RepositorioGitHub.Models
+ 
+@model DadosDoRepositorio
+
+<h2>Dados do repositório @Model.name</h2>
+
+@if (Model != null)  
+{
+    <section class="">
+
+        <ul style="list-style-type: none;">
+            <li>
+                Dono : <b>@Model.owner.login</b>
+            </li>
+            <li>
+                Descrição : <b>@Model.description</b>
+            </li>
+            <li>
+                Linguagem : <b>@Model.language</b>
+            </li>
+            <li>
+                Última data de atualização: <b>@Model.updated_at</b>
+            </li> 
+            <li>
+                @{
+                    string mensagemDoStatus = "Clique aqui para marcar como favorito";
+                    if ( Model.Favorito == true )
+                    {
+                        mensagemDoStatus = "Clique aqui para desmarcar como favorito";
+                    }
+                }
+                <br/>
+                @Ajax.ActionLink(mensagemDoStatus, "AlterarStatusDeFavorito", "Home", 
+                                 new { nomeDoDonoDoRepositorio = Model.owner.login, 
+                                       nomeDoItemDoRepositorio = Model.name,
+                                       statusAtual = Model.Favorito },
+                                 new AjaxOptions { UpdateTargetId = "divBodyRegion" },
+                                 new {})
+            </li> 
+        </ul>
+
+        <h3>Colaboradores</h3>
+        <ul>
+            @foreach (var itemAtual in Model.colaboradores)
+            {
+                <li>
+                    @itemAtual.login  
+                </li>
+            }
+        </ul>
+    </section>
+}
+else
+{
+    <div class="semResultado">Nenhum item encontrado</div>
+}
+
+

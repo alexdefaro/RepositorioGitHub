@@ -1,0 +1,132 @@
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\obj\Debug\RepositorioGitHub.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.Tests.dll.config
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.Tests.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.Tests.pdb
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Spatial.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.pdb
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Spatial.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\obj\Debug\RepositorioGitHub.Tests.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub.Tests\obj\Debug\RepositorioGitHub.Tests.pdb
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.Tests.dll.config
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.Tests.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.Tests.pdb
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Spatial.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\RepositorioGitHub.pdb
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\System.Spatial.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\obj\Debug\RepositorioGitHub.Tests.csprojResolveAssemblyReference.cache
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\obj\Debug\RepositorioGitHub.Tests.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub.Tests\obj\Debug\RepositorioGitHub.Tests.pdb

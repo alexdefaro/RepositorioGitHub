@@ -1,0 +1,173 @@
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\RepositorioGitHub.dll.config
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\RepositorioGitHub.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\RepositorioGitHub.pdb
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Antlr3.Runtime.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\EntityFramework.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.OData.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Newtonsoft.Json.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Spatial.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Helpers.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.OData.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.WebHost.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Mvc.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Optimization.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Razor.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\WebGrease.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.Data.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.WebData.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\EntityFramework.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Newtonsoft.Json.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Helpers.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.WebHost.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Mvc.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Razor.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.Data.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.WebData.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.OData.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.OData.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\System.Spatial.xml
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\de\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\es\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\it\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\obj\Debug\RepositorioGitHub.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\obj\Debug\RepositorioGitHub.dll
+C:\Users\Alexandre Ramos\Documents\Visual Studio 2013\Projects\Way2\RepositorioGitHub\RepositorioGitHub\obj\Debug\RepositorioGitHub.pdb
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\RepositorioGitHub.dll.config
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\RepositorioGitHub.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\RepositorioGitHub.pdb
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Antlr3.Runtime.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.Core.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\EntityFramework.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.Edm.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.OData.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Newtonsoft.Json.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Net.Http.Formatting.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Spatial.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Helpers.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.OData.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.WebHost.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Mvc.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Optimization.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Razor.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\WebGrease.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.Data.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.WebData.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\EntityFramework.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Newtonsoft.Json.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Net.Http.Formatting.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Helpers.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.WebHost.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Mvc.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Razor.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.Data.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\WebMatrix.WebData.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.Core.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Web.Http.OData.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.Edm.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\Microsoft.Data.OData.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\System.Spatial.xml
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\pt-br\WebMatrix.Data.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\de\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\es\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\fr\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\it\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ja\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ko\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\ru\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\obj\Debug\RepositorioGitHub.csprojResolveAssemblyReference.cache
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\obj\Debug\RepositorioGitHub.dll
+C:\Users\y7bw\Documents\Visual Studio 2013\Projects\RepositorioGitHub\RepositorioGitHub\obj\Debug\RepositorioGitHub.pdb

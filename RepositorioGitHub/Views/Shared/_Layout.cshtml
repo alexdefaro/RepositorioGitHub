@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Usando a API do GitHub - Alexandre Ramos</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">@Html.ActionLink("Usando a API do GitHub", "Index", "Home")</p>
+            </div>
+            <div class="float-right">
+                <nav>
+                    <ul id="menu">
+                        <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+                        <li>@Ajax.ActionLink("Meus repositórios", "MeusRepositorios", "Home", new AjaxOptions { UpdateTargetId = "divBodyRegion" })</li>
+                        <li>@Ajax.ActionLink("Favoritos", "Favoritos", "Home", new AjaxOptions { UpdateTargetId = "divBodyRegion" })</li>
+                        <li>@Ajax.ActionLink("Consulta", "Consulta", "Home", new AjaxOptions { UpdateTargetId = "divBodyRegion" })</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+        <section class="content-wrapper main-content clear-fix" style="height:50%;">
+            <div id="divBodyRegion">
+            </div>
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year - Alexandre Ramos</p>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
