@@ -43,7 +43,7 @@ namespace RepositorioGitHub.Services
             {    
                 string resultadoDaConsulta = String.Empty;
                 
-                HttpClient httpClient = new HttpClient( new HttpClientHandler { Credentials = new NetworkCredential( "alexdefaro", "alex2909" ) } ); 
+                HttpClient httpClient = new HttpClient( new HttpClientHandler { Credentials = new NetworkCredential( "userName", "password" ) } ); 
                  
                 httpClient.DefaultRequestHeaders.Add("user-agent", "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)");
                    
@@ -75,7 +75,7 @@ namespace RepositorioGitHub.Services
                 webRequest.ContentLength=0;
                 webRequest.ContentType = "application/x-www-form-urlencoded";
                 webRequest.UserAgent = "RepositorioGitHub";
-                webRequest.Headers.Add("Authorization","Basic " + Convert.ToBase64String(new ASCIIEncoding().GetBytes("alexdefaro"+":"+"alex2909")));
+                webRequest.Headers.Add("Authorization","Basic " + Convert.ToBase64String(new ASCIIEncoding().GetBytes("userName"+":"+"password")));
 
                 string resultadoDaConsulta = String.Empty;
                 if ( httpVerb == HttpVerbs.Get )
